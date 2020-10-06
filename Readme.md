@@ -1,1 +1,3 @@
-https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md
+# Primer proyecto de MongoDB
+subiéndolo a **GitHub**
+creando el archivo *Readme.md*
